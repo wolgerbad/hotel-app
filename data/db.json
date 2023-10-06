@@ -1,0 +1,60 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "title": "Africa style room",
+      "description": "Africa style room description",
+      "isBought": false,
+      "url": "https://images.unsplash.com/photo-1611892440504-42a792e24d32?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8aG90ZWwlMjByb29tfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+      "id": 4,
+      "title": "North style room",
+      "description": "North style room description",
+      "isBought": false,
+      "url": "https://images.unsplash.com/photo-1631049307264-da0ec9d70304?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8aG90ZWwlMjByb29tfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+      "id": 5,
+      "title": "East style room",
+      "description": "East style room description",
+      "isBought": false,
+      "url": "https://images.unsplash.com/photo-1618773928121-c32242e63f39?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8aG90ZWwlMjByb29tfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+      "id": 6,
+      "title": "Middle East style room",
+      "description": "Middle East style room description",
+      "isBought": false,
+      "url": "https://images.unsplash.com/photo-1596394516093-501ba68a0ba6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8aG90ZWwlMjByb29tfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+      "id": 7,
+      "title": "West style room",
+      "description": "West style room description",
+      "isBought": false,
+      "url": "https://images.unsplash.com/flagged/photo-1556438758-8d49568ce18e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8aG90ZWwlMjByb29tfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+      "id": 8,
+      "title": "Holiday room",
+      "description": "Holiday room description",
+      "isBought": false,
+      "url": "https://images.unsplash.com/photo-1568495248636-6432b97bd949?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8aG90ZWwlMjByb29tfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+      "id": 9,
+      "title": "Cool room",
+      "description": "Cool room description",
+      "isBought": false,
+      "url": "https://plus.unsplash.com/premium_photo-1687995673398-bf3e55667dc5?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTN8fGhvdGVsJTIwcm9vbXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+      "id": 10,
+      "title": "Best room",
+      "description": "Best room description",
+      "isBought": false,
+      "url": "https://images.unsplash.com/photo-1605346434674-a440ca4dc4c0?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTR8fGhvdGVsJTIwcm9vbXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60"
+    }
+  ]
+}
